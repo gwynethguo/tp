@@ -33,6 +33,8 @@ Given below are my contributions to the project.
   * Updated site-wide settings
     * Changed project name, title, and badges.
     * Changed site header to ensure that the details are correct when converting the documentation to the `.pdf` format.
+  * Reviewed User Story Section of the Developer Guide ([#30](https://github.com/AY2223S2-CS2103-W17-1/tp/pull/30))
+  * Updated a feature: Listing a student's tasks in the User Guide ([#53](https://github.com/AY2223S2-CS2103-W17-1/tp/pull/53))
 
 * **Contributions beyond the project team**:
   * to be added soon.
